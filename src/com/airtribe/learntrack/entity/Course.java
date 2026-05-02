@@ -2,8 +2,6 @@ package com.airtribe.learntrack.entity;
 
 import static com.airtribe.learntrack.util.AutoIdGenerator.generatedCourseId;
 
-import com.airtribe.learntrack.util.AutoIdGenerator;
-
 public class Course {
     private int courseId;
     private String courseName;
